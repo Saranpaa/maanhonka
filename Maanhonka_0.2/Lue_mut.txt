@@ -1,0 +1,3 @@
+Index.html = Alkusivu
+Contfi.html = Yhteystiedot/FI
+main_base.html = Joku vanha sossupohja, saa ignorettaa.
